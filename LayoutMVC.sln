@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayoutMVC", "LayoutMVC\LayoutMVC.csproj", "{B34E4453-F693-4F81-8EAA-F36EB9C836B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticWebSiteMVC", "StaticWebSiteMVC\StaticWebSiteMVC.csproj", "{971DB89D-0E1F-40EC-9B99-F7BE0A055B27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B34E4453-F693-4F81-8EAA-F36EB9C836B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B34E4453-F693-4F81-8EAA-F36EB9C836B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B34E4453-F693-4F81-8EAA-F36EB9C836B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{971DB89D-0E1F-40EC-9B99-F7BE0A055B27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{971DB89D-0E1F-40EC-9B99-F7BE0A055B27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{971DB89D-0E1F-40EC-9B99-F7BE0A055B27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{971DB89D-0E1F-40EC-9B99-F7BE0A055B27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
